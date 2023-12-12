@@ -70,11 +70,11 @@ int main()
     glEnable(GL_DEPTH_TEST);
     // build and compile our shader zprogram
     // ------------------------------------
-    Shader ObjectShader("../res/shaders/shaderenv.vs", "../res/shaders/shaderenv.fs");
+    Shader ObjectShader("../res/shaders/shader.vs", "../res/shaders/shader.fs");
     Shader skybox_shader("../res/shaders/Skybox.vs","../res/shaders/Skybox.fs");
     // set up model
     // ------------------------------------------------------------------
-    Model ourModel("../res/BlackHole/sphere.obj");
+    Model ourModel("../res/plane/plane.obj");
 
     float skyboxVertices[] = {
         // positions
