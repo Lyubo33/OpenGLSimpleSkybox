@@ -1,0 +1,19 @@
+# ninja log v5
+0	31	1702339336842137074	build.ninja	9515a50bf4f6f22f
+1521	1636	1702410379314304655	WaterSurfaceProject	e4c4f9e53c528fcb
+0	739	1701806819460650451	CMakeFiles/WaterSurfaceProject.dir/stbimg.cpp.o	1a19fcab12272b12
+1	563	1701803329873314773	CMakeFiles/WaterSurfaceProject.dir/Shader.cpp.o	39ce52e39577bbfe
+1	1521	1702410379197634441	CMakeFiles/WaterSurfaceProject.dir/main.cpp.o	8081c33eda1a0e73
+0	750	1701805521236420368	CMakeFiles/WaterSurfaceProject.dir/stb_image.cpp.o	84fa96b9b70bd142
+1	1490	1702410503587958343	CMakeFiles/WaterSurfaceProject.dir/main.cpp.o	8081c33eda1a0e73
+1490	1644	1702410503741296072	WaterSurfaceProject	e4c4f9e53c528fcb
+1	1447	1702410581906849328	CMakeFiles/WaterSurfaceProject.dir/main.cpp.o	8081c33eda1a0e73
+1447	1549	1702410582010185573	WaterSurfaceProject	e4c4f9e53c528fcb
+0	1443	1702410692383275305	CMakeFiles/WaterSurfaceProject.dir/main.cpp.o	8081c33eda1a0e73
+1443	1551	1702410692493278368	WaterSurfaceProject	e4c4f9e53c528fcb
+1	1399	1702410886962196129	CMakeFiles/WaterSurfaceProject.dir/main.cpp.o	8081c33eda1a0e73
+1399	1498	1702410887062199246	WaterSurfaceProject	e4c4f9e53c528fcb
+1	1420	1702410907796176343	CMakeFiles/WaterSurfaceProject.dir/main.cpp.o	8081c33eda1a0e73
+1421	1521	1702410907896179437	WaterSurfaceProject	e4c4f9e53c528fcb
+1	1418	1702411016666152724	CMakeFiles/WaterSurfaceProject.dir/main.cpp.o	8081c33eda1a0e73
+1418	1514	1702411016762822285	WaterSurfaceProject	e4c4f9e53c528fcb

@@ -1,0 +1,3 @@
+/home/lyubo/CLionProjects/WaterSurfaceProject/cmake-build-debug/CMakeFiles/WaterSurfaceProject.dir
+/home/lyubo/CLionProjects/WaterSurfaceProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lyubo/CLionProjects/WaterSurfaceProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
